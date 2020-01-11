@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Witaj</pattern>
+    <template>Hej</template>
+  </category>
+<category>
+    <pattern>co sÅychaÄ </pattern>
+    <template>W porzÄdku a u Ciebie?</template>
+</category>
+</aiml>
