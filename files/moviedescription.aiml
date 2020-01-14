@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="2.0">
+
+
+<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Rio bravo</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Szeryf odpiera ataki bandytÃ³w chcÄcych uwolniÄ wiÄÅºnia i pomaga stanÄÄ na nogi przyjacielowi.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Django</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Åowca nagrÃ³d oswobadza niewolnika, razem ÅcigajÄ przestÄpcÃ³w.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Nienawistna Ã³semka</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Åowca nagrÃ³d prÃ³buje dostarczyÄ oskarÅ¼onÄ na proces i egzekucjÄ. Musi przeczekaÄ zamieÄ wraz z 7 innymi osobami miÄdzy ktÃ³rymi szybko wybuchajÄ kÅÃ³tnie.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Za garÅÄ dolarÃ³w</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Miasteczkiem rzÄdzÄ dwie bandy przestÄpcÃ³w, nieznany przybysz musi opowiedzieÄ siÄ po jednej ze stron.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Irlandczyk</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Historia gangstera osadzona w latach 60 i 70 ukazujÄca powiÄzania mafii z politykÄ.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Ojciec chrzestny</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Historia wÅoskiej rodziny mafijnej.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Å»ycie Carlita</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+PortorykaÅski gangster prÃ³buje zerwaÄ z kryminalnÄ przeszÅoÅciÄ.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Donnie Brasco</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Agent FBI infiltruje mafiÄ.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>CzÅowiek z bliznÄ</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Uciekinier z Kuby pnie siÄ na szczyt przestÄpczego pÃ³ÅÅwiatka.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Braveheart</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Szkocki drobny szlachcic staje na czele buntu.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Agora</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+ChrzeÅcijanie pustoszÄ AleksandriÄ.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>KrÃ³lestwo niebieskie</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+KrzyÅ¼owcy usiÅujÄ przeciwstawiÄ sie armi Saladyna.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Gra tejemnic</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Matematycy z Blatchley Park ÅamiÄ enigmÄ.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>BÄkarty wojny</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Jednostka specjalna morduje nazistowskich oficerÃ³w.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>WrÃ³g u bram</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Pojedynek snajperÃ³w podczas walk o Stalingrad.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>DziewiÄta kompania</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Podczas radzieckiej interwencji w Afganistanie zapomniany oddziaÅ prÃ³buje utrzymaÄ sie przy Å¼yciu.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Szeregowiec Ryan</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+PrÃ³ba odnalezienia jednego z szeregowcÃ³w w chaosie walk w Normandii.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Nietykalni</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Dochodzenie przeciwko Alowi Capone.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Brydny Harry</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Kontrowersyjny policjant prÃ³buje schwytaÄ porywacza.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>SÄp</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Åledztwo w sprawie zagadkowych porwaÅ.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Ex machina</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Sztuczna inteligencja wymyka sie spod kontroli.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Ja, robot</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Detektyw oskarÅ¼a robota o zabÃ³jstwo naukowca.
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ o czym ^</pattern>
+
+<that>Interstellar</that>
+
+
+-<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+Poszukiwania nowej Ziemii.
+</template>
+
+</category>
+
+</aiml>

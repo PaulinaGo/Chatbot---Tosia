@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="2.0">
+
+
+<category>
+
+<pattern>^ rodzaj ^</pattern>
+
+
+<template>
+
+<image>https://i.pinimg.com/originals/e0/50/c5/e050c5b96ed87e21a3ca367ebf47d8bd.png</image>
+
+
+<random>
+
+<li>KryminaÅ</li>
+
+<li>Gangsterski</li>
+
+<li>Sci-fi</li>
+
+<li>Dramat</li>
+
+<li>Przygodowy</li>
+
+<li>Western</li>
+
+<li>Wojenny</li>
+
+<li>Historyczny</li>
+
+<li>Komedia</li>
+
+</random>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ gatunek ^</pattern>
+
+
+-<template>
+
+<stai>^ rodzaj ^</stai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ wybÃ³r ^</pattern>
+
+
+-<template>
+
+<srai>^ rodzaj ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ wyboru ^</pattern>
+
+
+-<template>
+
+<srai>^ rodzaj ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ wybraÄ ^</pattern>
+
+
+-<template>
+
+<srai>^ rodzaj ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ polecasz ^</pattern>
+
+<that>A na jaki rodzaj filmu masz ochotÄ?</that>
+
+
+-<template>
+
+<srai>^ rodzaj ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ poleciÄ ^</pattern>
+
+<that>A na jaki rodzaj filmu masz ochotÄ?</that>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ proponujesz ^</pattern>
+
+<that>A na jaki rodzaj filmu masz ochotÄ?</that>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ zaproponowaÄ ^</pattern>
+
+<that>A na jaki rodzaj filmu masz ochotÄ?</that>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ sugerujesz ^</pattern>
+
+<that>A na jaki rodzaj filmu masz ochotÄ?</that>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ zasugerowaÄ ^</pattern>
+
+<that>A na jaki rodzaj filmu masz ochotÄ?</that>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ kryminaÅ ^</pattern>
+
+
+-<template>
+
+<image>https://vignette.wikia.nocookie.net/familyguy/images/5/5d/FGuy_Peter_Gen2012_R3Flat.jpg/revision/latest?cb=20190415212304</image>
+
+
+-<random>
+
+<li>Nietykalni</li>
+
+<li>Brudny Harry</li>
+
+<li>SiÅa magnum</li>
+
+<li>SÄp</li>
+
+</random>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ gangsterski ^</pattern>
+
+
+-<template>
+
+<image>https://vignette.wikia.nocookie.net/familyguy/images/5/5d/FGuy_Peter_Gen2012_R3Flat.jpg/revision/latest?cb=20190415212304</image>
+
+
+-<random>
+
+<li>Ojciec chrzestny</li>
+
+<li>Å»ycie Carlita</li>
+
+<li>Irlandczyk</li>
+
+<li>Donnie Brasco</li>
+
+<li>CzÅowiek z bliznÄ</li>
+
+<li>Dawno temu w Ameryce</li>
+
+</random>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ sci-fi ^</pattern>
+
+
+-<template>
+
+<image>https://vignette.wikia.nocookie.net/familyguy/images/5/5d/FGuy_Peter_Gen2012_R3Flat.jpg/revision/latest?cb=20190415212304</image>
+
+
+-<random>
+
+<li>Interstellar</li>
+
+<li>Å»oÅnierze kosmosu</li>
+
+<li>Ja, robot</li>
+
+<li>Ex machina</li>
+
+<li>Marsjanin</li>
+
+<li>Serenity</li>
+
+</random>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ western ^</pattern>
+
+
+-<template>
+
+<image>https://vignette.wikia.nocookie.net/familyguy/images/5/5d/FGuy_Peter_Gen2012_R3Flat.jpg/revision/latest?cb=20190415212304</image>
+
+
+-<random>
+
+<li>Django</li>
+
+<li>Za garÅÄ dolarÃ³w</li>
+
+<li>Rio bravo</li>
+
+<li>Nienawistna Ã³semka</li>
+
+<li>Tomb Stone</li>
+
+<li>3:10 do Jumy</li>
+
+</random>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ wojenny ^</pattern>
+
+
+-<template>
+
+<image>https://vignette.wikia.nocookie.net/familyguy/images/5/5d/FGuy_Peter_Gen2012_R3Flat.jpg/revision/latest?cb=20190415212304</image>
+
+
+-<random>
+
+<li>BÄkarty wojny</li>
+
+<li>DziewiÄta kompania</li>
+
+<li>WrÃ³g u bram</li>
+
+<li>Szeregowiec Ryan</li>
+
+</random>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ dramat ^</pattern>
+
+
+-<template>
+
+<image>https://vignette.wikia.nocookie.net/familyguy/images/5/5d/FGuy_Peter_Gen2012_R3Flat.jpg/revision/latest?cb=20190415212304</image>
+
+
+-<random>
+
+<li>Forest Gump</li>
+
+<li>Titanic</li>
+
+<li>Chce siÄ Å¼yÄ</li>
+
+<li>Przypadek Benjamina Buttona</li>
+
+</random>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ przygodowy ^</pattern>
+
+
+-<template>
+
+<image>https://vignette.wikia.nocookie.net/familyguy/images/5/5d/FGuy_Peter_Gen2012_R3Flat.jpg/revision/latest?cb=20190415212304</image>
+
+
+-<random>
+
+<li>Poszukiwacze zaginionej Arki</li>
+
+<li>Jumanji</li>
+
+<li>Pan i wÅadca na kraÅcu Åwiata</li>
+
+<li>Piraci z karaibÃ³w: KlÄtwa czarnej perÅy</li>
+
+</random>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ historyczny ^</pattern>
+
+
+-<template>
+
+<image>https://vignette.wikia.nocookie.net/familyguy/images/5/5d/FGuy_Peter_Gen2012_R3Flat.jpg/revision/latest?cb=20190415212304</image>
+
+
+-<random>
+
+<li>Braveheart</li>
+
+<li>Agora</li>
+
+<li>KrÃ³lestwo niebieskie</li>
+
+<li>Gra tajemnic</li>
+
+</random>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ komedia ^</pattern>
+
+
+-<template>
+
+<image>https://vignette.wikia.nocookie.net/familyguy/images/5/5d/FGuy_Peter_Gen2012_R3Flat.jpg/revision/latest?cb=20190415212304</image>
+
+
+-<random>
+
+<li>Pulp fiction</li>
+
+<li>DzieÅ Åwira</li>
+
+<li>MiÄdzy nami dobrze jest</li>
+
+<li>Poszukiwacze ÅwiÄtego Graala</li>
+
+</random>
+
+</template>
+
+</category>
+
+</aiml>

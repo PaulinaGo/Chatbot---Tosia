@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="2.0">
+
+
+<category>
+
+<pattern>^ polecasz ^</pattern>
+
+
+-<template>
+
+<image>https://i.imgflip.com/1jhtur.jpg?a438336</image>
+A na jaki rodzaj filmu masz ochotÄ?
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ poleciÄ ^</pattern>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ proponujesz ^</pattern>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ zaproponowaÄ ^</pattern>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ sugerujesz ^</pattern>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ zasugerowaÄ ^</pattern>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ jaki ^</pattern>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ doradzasz ^</pattern>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ doradziÄ ^</pattern>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ tak ^</pattern>
+
+<that>CzeÅÄ! MogÄ poleciÄ Ci jakiÅ film?</that>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ ok ^</pattern>
+
+<that>CzeÅÄ! MogÄ poleciÄ Ci jakiÅ film?</that>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>^ czemu nie ^</pattern>
+
+
+-<template>
+
+<srai>^ polecasz ^</srai>
+
+</template>
+
+</category>
+
+</aiml>
