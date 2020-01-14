@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="2.0">
+
+
+<category>
+
+<pattern>^ moÅ¼e byÄ ^</pattern>
+
+
+<template>
+
+<image>http://images4.fanpop.com/image/photos/19600000/Peter-Griffin-The-ultimate-Family-Guy-character-family-guy-characters-19628944-918-683.jpg</image>
+CieszÄ siÄ, Å¼e mogÅem pomÃ³c.
+</template>
+
+</category>
+
+
+<category>
+
+<pattern>^ niech bÄdzie ^</pattern>
+
+
+<template>
+
+<srai>^ moÅ¼e byÄ ^</srai>
+
+</template>
+
+</category>
+
+
+<category>
+
+<pattern>^ ok ^</pattern>
+
+
+<template>
+
+<srai>^ moÅ¼e byÄ ^</srai>
+
+</template>
+
+</category>
+
+
+<category>
+
+<pattern>^ dobra ^</pattern>
+
+
+<template>
+
+<srai>^ moÅ¼e byÄ ^</srai>
+
+</template>
+
+</category>
+
+<category>
+
+<pattern>^ tak ^</pattern>
+
+
+<template>
+
+<srai>^ moÅ¼e byÄ ^</srai>
+
+</template>
+
+</category>
+
+
+<category>
+
+<pattern>^ obejrzÄ ^</pattern>
+
+
+<template>
+
+<srai>^ moÅ¼e byÄ ^</srai>
+
+</template>
+
+</category>
+
+
+<category>
+
+<pattern>^ obejrzeÄ ^</pattern>
+
+
+<template>
+
+<srai>^ moÅ¼e byÄ ^</srai>
+
+</template>
+
+</category>
+
+
+<category>
+
+<pattern>^ oglÄdnÄ ^</pattern>
+
+<template>MÃ³wi siÄ "obejrzÄ".</template>
+
+</category>
+
+</aiml>

@@ -1,11 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aiml>
-  <category>
-    <pattern>Witaj</pattern>
-    <template>Hej</template>
-  </category>
+
+<aiml version="2.0">
+
+
 <category>
-    <pattern>co sÅychaÄ </pattern>
-    <template>W porzÄdku a u Ciebie?</template>
+
+<pattern>CzeÅÄ ^</pattern>
+
+
+<template>
+
+<image>https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png</image>
+CzeÅÄ! MogÄ poleciÄ Ci jakiÅ film?
+</template>
+
 </category>
+
+<category>
+
+<pattern>DzieÅ dobry ^</pattern>
+
+
+<template>
+
+<srai>CzeÅÄ ^</srai>
+
+</template>
+
+</category>
+
+
+<category>
+
+<pattern>Siema ^</pattern>
+
+
+<template>
+
+<srai>CzeÅÄ ^</srai>
+
+</template>
+
+</category>
+
+
+<category>
+
+<pattern>Witaj ^</pattern>
+
+
+<template>
+
+<srai>CzeÅÄ ^</srai>
+
+</template>
+
+</category>
+
+
+-<category>
+
+<pattern>Witam ^</pattern>
+
+
+<template>
+
+<srai>CzeÅÄ ^</srai>
+
+</template>
+
+</category>
+
+
+<category>
+
+<pattern>Dobry wieczÃ³r ^</pattern>
+
+
+<template>
+
+<srai>CzeÅÄ ^</srai>
+
+</template>
+
+</category>
+
+
+<category>
+
+<pattern>Siemka ^</pattern>
+
+
+<template>
+
+<srai>CzeÅÄ ^</srai>
+
+</template>
+
+</category>
+
+<category>
+
+<pattern>Hej ^</pattern>
+
+
+<template>
+
+<srai>CzeÅÄ ^</srai>
+
+</template>
+
+</category>
+
 </aiml>
